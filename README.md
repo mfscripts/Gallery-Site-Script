@@ -2,7 +2,7 @@
 
 Setup and manage your own online image gallery. 
 
-<h2>About Fonts Site Script Free</h2>
+<h2>About Gallery Site Script Free</h2>
 This site script can be used to create an online image and photo gallery.
 
 This is a community based release that is supplied without support or liability. You are free to use the fonts site script as you wish. The only restriction to this PHP script is that this README file must not be edited or deleted. 
