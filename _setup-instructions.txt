@@ -9,3 +9,5 @@ Setup Instructions:
 - ADD YOUR IMAGES/PHOTOS: To add your images/photos simply create a folder for each album within the 'pictures' directory and place your photos in each. Each new folder name will appear as the album name. Your filenames of each photo will appear as the image title when browsing.
 
 Note: Supported image types are jpgs, pngs and static gifs
+
+For more PHP scripts go to http://reservo.co/!
