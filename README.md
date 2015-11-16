@@ -32,7 +32,7 @@ Full instructions are given in the _setup-instructions.txt file found within the
 If you'd like to contribute to the project, please contact us via the github project https://github.com/mfscripts/Gallery-Site-Script
 
 <h2>License</h2>
-Gallery Site Script Free is copyrighted by <a href="http://mfscripts.com/">MFScripts</a> and is released under the <a href="http://opensource.org/licenses/MIT">MIT license</a>. You are free to use the fonts site scriptvasc as you wish. The only restriction to this PHP script is that this README file must not be edited or deleted. 
+Gallery Site Script Free is copyrighted by <a href="http://mfscripts.com/">MFScripts</a> and is released under the <a href="http://opensource.org/licenses/MIT">MIT license</a>. You are free to use the gallery site script as you wish. The only restriction to this PHP script is that this README file must not be edited or deleted. 
 
 <h2>Support</h2>
 This code is released without any support and as-is. Any support requests on this version will be removed. For community driven support please use the github project https://github.com/mfscripts/Gallery-Site-Script
